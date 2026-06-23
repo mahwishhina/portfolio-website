@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Mahwish Profile</title>
+		<link>http://localhost:1313/tags/</link>
+		<description>Recent content in Tags on Mahwish Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Business Intelligence</title>
+				<link>http://localhost:1313/tags/business-intelligence/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/business-intelligence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dashboard</title>
+				<link>http://localhost:1313/tags/dashboard/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/dashboard/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Analysis</title>
+				<link>http://localhost:1313/tags/data-analysis/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/data-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Analytics</title>
+				<link>http://localhost:1313/tags/data-analytics/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/data-analytics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Visualization</title>
+				<link>http://localhost:1313/tags/data-visualization/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/data-visualization/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MySQL</title>
+				<link>http://localhost:1313/tags/mysql/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/mysql/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Power BI</title>
+				<link>http://localhost:1313/tags/power-bi/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/power-bi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SQL</title>
+				<link>http://localhost:1313/tags/sql/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/sql/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Career Transition</title>
+				<link>http://localhost:1313/tags/career-transition/</link>
+				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/career-transition/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Example</title>
+				<link>http://localhost:1313/tags/example/</link>
+				<pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+				<guid>http://localhost:1313/tags/example/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Placeholder Text</title>
+				<link>http://localhost:1313/tags/placeholder-text/</link>
+				<pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+				<guid>http://localhost:1313/tags/placeholder-text/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sample</title>
+				<link>http://localhost:1313/tags/sample/</link>
+				<pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+				<guid>http://localhost:1313/tags/sample/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rich Content</title>
+				<link>http://localhost:1313/tags/rich-content/</link>
+				<pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+				<guid>http://localhost:1313/tags/rich-content/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Emoji Support</title>
+				<link>http://localhost:1313/tags/emoji-support/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/emoji-support/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Markdown Syntax</title>
+				<link>http://localhost:1313/tags/markdown-syntax/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/markdown-syntax/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

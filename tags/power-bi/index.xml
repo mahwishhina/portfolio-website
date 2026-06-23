@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Power BI on Mahwish Profile</title>
+		<link>http://localhost:1313/tags/power-bi/</link>
+		<description>Recent content in Power BI on Mahwish Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Journey into Data Analytics</title>
+				<link>http://localhost:1313/blogs/my-journey-into-data-analytics/</link>
+				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/my-journey-into-data-analytics/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;My journey into data analytics began while working in pension administration, where I was responsible for financial data reconciliation, reporting, and validating pension payment records. Although accuracy and compliance were key aspects of the role, I found myself particularly interested in analyzing data, identifying discrepancies, and uncovering patterns.&lt;/p&gt;&#xA;&lt;h2 id=&#34;discovering-analytics&#34;&gt;Discovering Analytics&lt;/h2&gt;&#xA;&lt;p&gt;A significant part of my work involved comparing datasets from banks against internal records, performing variance analysis in Excel, and preparing reports for management. These responsibilities strengthened my analytical thinking and attention to detail while showing me the value of data-driven decision-making.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
