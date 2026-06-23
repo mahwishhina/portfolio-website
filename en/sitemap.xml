@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blogs/5-sql-queries/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/career-transition/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/first-power-bi-dashboard/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/business-intelligence/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dashboard/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-analysis/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-analytics/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-visualization/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -29,17 +44,17 @@
                 href="http://localhost:1313/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blogs/my-journey-into-data-analytics/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/mysql/</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/power-bi/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sql/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -56,31 +71,25 @@
                 href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/career-transition/</loc>
+    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/my-journey-into-data-analytics/</loc>
+    <lastmod>2026-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/example/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/markdown-syntax/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown-syntax/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/placeholder-text/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sample/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/rich-content/</loc>

@@ -18,7 +18,7 @@
 				<link>http://localhost:1313/blogs/5-sql-queries/</link>
 				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/blogs/5-sql-queries/</guid>
-				<description>&lt;h1 id=&#34;5-sql-queries-every-data-analyst-should-know&#34;&gt;5 SQL Queries Every Data Analyst Should Know&lt;/h1&gt;&#xA;&lt;h2 id=&#34;transition-into-analytics&#34;&gt;Transition Into Analytics&lt;/h2&gt;&#xA;&lt;p&gt;SQL is one of the most important skills for data analysts. Whether you&amp;rsquo;re cleaning data, generating reports, or answering business questions, SQL helps transform raw data into meaningful insights.&lt;/p&gt;&#xA;&lt;p&gt;As I transitioned into data analytics, SQL became one of the first technical skills I focused on learning. While SQL contains many advanced features, there are a few fundamental queries that analysts use regularly in real-world projects.&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;transition-into-analytics&#34;&gt;Transition Into Analytics&lt;/h2&gt;&#xA;&lt;p&gt;SQL is one of the most important skills for data analysts. Whether you&amp;rsquo;re cleaning data, generating reports, or answering business questions, SQL helps transform raw data into meaningful insights.&lt;/p&gt;&#xA;&lt;p&gt;As I transitioned into data analytics, SQL became one of the first technical skills I focused on learning. While SQL contains many advanced features, there are a few fundamental queries that analysts use regularly in real-world projects.&lt;/p&gt;&#xA;&lt;p&gt;In this post, I&amp;rsquo;ll cover five SQL queries every data analyst should know and explain why they are important.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
