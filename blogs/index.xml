@@ -1,49 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Mahwish Profile</title><link>https://mahwishhina.github.io/portfolio-website/blogs/</link><description>Recent content in Blogs on Mahwish Profile</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mahwishhina.github.io/portfolio-website/blogs/index.xml" rel="self" type="application/rss+xml"/><item><title>5 SQL Queries Every Data Analyst Should Know</title><link>https://mahwishhina.github.io/portfolio-website/blogs/5-sql-queries/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://mahwishhina.github.io/portfolio-website/blogs/5-sql-queries/</guid><description>&lt;h2 id="transition-into-analytics"&gt;Transition Into Analytics&lt;/h2&gt;
-&lt;p&gt;SQL is one of the most important skills for data analysts. Whether you&amp;rsquo;re cleaning data, generating reports, or answering business questions, SQL helps transform raw data into meaningful insights.&lt;/p&gt;
-&lt;p&gt;As I transitioned into data analytics, SQL became one of the first technical skills I focused on learning. While SQL contains many advanced features, there are a few fundamental queries that analysts use regularly in real-world projects.&lt;/p&gt;
-&lt;p&gt;In this post, I&amp;rsquo;ll cover five SQL queries every data analyst should know and explain why they are important.&lt;/p&gt;</description></item><item><title>Building My First Power BI Dashboard</title><link>https://mahwishhina.github.io/portfolio-website/blogs/first-power-bi-dashboard/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://mahwishhina.github.io/portfolio-website/blogs/first-power-bi-dashboard/</guid><description>&lt;h2 id="first-step-towards-visualization"&gt;First Step Towards Visualization&lt;/h2&gt;
-&lt;p&gt;Creating my first Power BI dashboard was an exciting milestone in my data analytics journey. It helped me turn raw data into meaningful insights and taught me how powerful visualization can be in storytelling. Building this dashboard was an eye‑opening experience into how global economic shifts impact companies, industries, and entire regions.&lt;/p&gt;
-&lt;h2 id="1-project-overview"&gt;1. Project Overview&lt;/h2&gt;
-&lt;p&gt;I built a World Layoffs - Insignts &amp;amp; Trends dashboard to analyze worldwide layoffs from 2020 to 2024, covering more than 1,000 companies, 31 industries, and nearly 485,000 employees affected. The goal of this project was to understand how layoffs evolved globally during and after the pandemic. I wanted to explore:&lt;/p&gt;</description></item><item><title>My Journey into Data Analytics</title><link>https://mahwishhina.github.io/portfolio-website/blogs/my-journey-into-data-analytics/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://mahwishhina.github.io/portfolio-website/blogs/my-journey-into-data-analytics/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;My journey into data analytics began while working in pension administration, where I was responsible for financial data reconciliation, reporting, and validating pension payment records. Although accuracy and compliance were key aspects of the role, I found myself particularly interested in analyzing data, identifying discrepancies, and uncovering patterns.&lt;/p&gt;
-&lt;h2 id="discovering-analytics"&gt;Discovering Analytics&lt;/h2&gt;
-&lt;p&gt;A significant part of my work involved comparing datasets from banks against internal records, performing variance analysis in Excel, and preparing reports for management. These responsibilities strengthened my analytical thinking and attention to detail while showing me the value of data-driven decision-making.&lt;/p&gt;</description></item><item><title>Placeholder Text</title><link>https://mahwishhina.github.io/portfolio-website/blogs/placeholder-text/</link><pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate><guid>https://mahwishhina.github.io/portfolio-website/blogs/placeholder-text/</guid><description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
-&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
-&lt;li&gt;Duce pollice&lt;/li&gt;
-&lt;li&gt;Eris modo&lt;/li&gt;
-&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description></item><item><title>Rich Content</title><link>https://mahwishhina.github.io/portfolio-website/blogs/rich-content/</link><pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate><guid>https://mahwishhina.github.io/portfolio-website/blogs/rich-content/</guid><description>&lt;p&gt;Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#embedded"&gt;Embedded Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href="https://gohugo.io/about/privacy/#configuration"&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;h2 id="x-simple-shortcode"&gt;X Simple Shortcode&lt;/h2&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;{{&amp;lt; x user=&amp;#34;GoHugoIO&amp;#34; id=&amp;#34;1315233626070503424&amp;#34; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;
-&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by &lt;a href="https://x.com/gurusabarishh?ref_src=twsrc%5Etfw"&gt;@gurusabarishh&lt;/a&gt;.&lt;a href="https://t.co/KwYcwfdy16"&gt;https://t.co/KwYcwfdy16&lt;/a&gt;&lt;/p&gt;&amp;mdash; GoHugo.io (@GoHugoIO) &lt;a href="https://x.com/GoHugoIO/status/1315233626070503424?ref_src=twsrc%5Etfw"&gt;October 11, 2020&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.x.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-
-&lt;br&gt;
-&lt;h2 id="vimeo-simple-shortcode"&gt;Vimeo Simple Shortcode&lt;/h2&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;{{&amp;lt; vimeo 146022717 &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;
-
-			&lt;div
-					style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
-				&lt;iframe
-					src="https://player.vimeo.com/video/146022717?dnt=0"
-						style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allow="fullscreen"&gt;
-				&lt;/iframe&gt;
-			&lt;/div&gt;
-
-&lt;br&gt;
-&lt;h2 id="youtube-simple-shortcode"&gt;Youtube Simple Shortcode&lt;/h2&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
-			&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
-		&lt;/div&gt;
-
-&lt;br&gt;
-&lt;h2 id="theme-custom-shortcodes"&gt;Theme Custom Shortcodes&lt;/h2&gt;
-&lt;p&gt;These shortcodes are not Hugo built-ins, but are provided by the theme.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blogs on Mahwish Profile</title>
+		<link>http://localhost:1313/portfolio-website/blogs/</link>
+		<description>Recent content in Blogs on Mahwish Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/portfolio-website/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>5 SQL Queries Every Data Analyst Should Know</title>
+				<link>http://localhost:1313/portfolio-website/blogs/5-sql-queries/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/portfolio-website/blogs/5-sql-queries/</guid>
+				<description>&lt;h2 id=&#34;transition-into-analytics&#34;&gt;Transition Into Analytics&lt;/h2&gt;&#xA;&lt;p&gt;SQL is one of the most important skills for data analysts. Whether you&amp;rsquo;re cleaning data, generating reports, or answering business questions, SQL helps transform raw data into meaningful insights.&lt;/p&gt;&#xA;&lt;p&gt;As I transitioned into data analytics, SQL became one of the first technical skills I focused on learning. While SQL contains many advanced features, there are a few fundamental queries that analysts use regularly in real-world projects.&lt;/p&gt;&#xA;&lt;p&gt;In this post, I&amp;rsquo;ll cover five SQL queries every data analyst should know and explain why they are important.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Building My First Power BI Dashboard</title>
+				<link>http://localhost:1313/portfolio-website/blogs/first-power-bi-dashboard/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/portfolio-website/blogs/first-power-bi-dashboard/</guid>
+				<description>&lt;h2 id=&#34;first-step-towards-visualization&#34;&gt;First Step Towards Visualization&lt;/h2&gt;&#xA;&lt;p&gt;Creating my first Power BI dashboard was an exciting milestone in my data analytics journey. It helped me turn raw data into meaningful insights and taught me how powerful visualization can be in storytelling. Building this dashboard was an eye‑opening experience into how global economic shifts impact companies, industries, and entire regions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-project-overview&#34;&gt;1. Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;I built a World Layoffs - Insignts &amp;amp; Trends dashboard to analyze worldwide layoffs from 2020 to 2024, covering more than 1,000 companies, 31 industries, and nearly 485,000 employees affected. The goal of this project was to understand how layoffs evolved globally during and after the pandemic. I wanted to explore:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My Journey into Data Analytics</title>
+				<link>http://localhost:1313/portfolio-website/blogs/my-journey-into-data-analytics/</link>
+				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/portfolio-website/blogs/my-journey-into-data-analytics/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;My journey into data analytics began while working in pension administration, where I was responsible for financial data reconciliation, reporting, and validating pension payment records. Although accuracy and compliance were key aspects of the role, I found myself particularly interested in analyzing data, identifying discrepancies, and uncovering patterns.&lt;/p&gt;&#xA;&lt;h2 id=&#34;discovering-analytics&#34;&gt;Discovering Analytics&lt;/h2&gt;&#xA;&lt;p&gt;A significant part of my work involved comparing datasets from banks against internal records, performing variance analysis in Excel, and preparing reports for management. These responsibilities strengthened my analytical thinking and attention to detail while showing me the value of data-driven decision-making.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Placeholder Text</title>
+				<link>http://localhost:1313/portfolio-website/blogs/placeholder-text/</link>
+				<pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+				<guid>http://localhost:1313/portfolio-website/blogs/placeholder-text/</guid>
+				<description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;&#xA;&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;&#xA;&lt;li&gt;Duce pollice&lt;/li&gt;&#xA;&lt;li&gt;Eris modo&lt;/li&gt;&#xA;&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rich Content</title>
+				<link>http://localhost:1313/portfolio-website/blogs/rich-content/</link>
+				<pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+				<guid>http://localhost:1313/portfolio-website/blogs/rich-content/</guid>
+				<description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34;&gt;Embedded Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/privacy/#configuration&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;x-simple-shortcode&#34;&gt;X Simple Shortcode&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; x user=&amp;#34;GoHugoIO&amp;#34; id=&amp;#34;1315233626070503424&amp;#34; &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by &lt;a href=&#34;https://x.com/gurusabarishh?ref_src=twsrc%5Etfw&#34;&gt;@gurusabarishh&lt;/a&gt;.&lt;a href=&#34;https://t.co/KwYcwfdy16&#34;&gt;https://t.co/KwYcwfdy16&lt;/a&gt;&lt;/p&gt;&amp;mdash; GoHugo.io (@GoHugoIO) &lt;a href=&#34;https://x.com/GoHugoIO/status/1315233626070503424?ref_src=twsrc%5Etfw&#34;&gt;October 11, 2020&lt;/a&gt;&lt;/blockquote&gt;&#xA;&lt;script async src=&#34;https://platform.x.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&#xA;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; vimeo 146022717 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&#xA;&#x9;&#x9;&#x9;&lt;div&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;iframe&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;src=&#34;https://player.vimeo.com/video/146022717?dnt=0&#34;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;fullscreen&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/iframe&gt;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;youtube-simple-shortcode&#34;&gt;Youtube Simple Shortcode&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;theme-custom-shortcodes&#34;&gt;Theme Custom Shortcodes&lt;/h2&gt;&#xA;&lt;p&gt;These shortcodes are not Hugo built-ins, but are provided by the theme.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
