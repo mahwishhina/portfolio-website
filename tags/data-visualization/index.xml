@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Visualization on Mahwish Profile</title><link>https://mahwishhina.github.io/tags/data-visualization/</link><description>Recent content in Data Visualization on Mahwish Profile</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mahwishhina.github.io/tags/data-visualization/index.xml" rel="self" type="application/rss+xml"/><item><title>Building My First Power BI Dashboard</title><link>https://mahwishhina.github.io/blogs/first-power-bi-dashboard/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://mahwishhina.github.io/blogs/first-power-bi-dashboard/</guid><description>&lt;h2 id="first-step-towards-visualization"&gt;First Step Towards Visualization&lt;/h2&gt;
-&lt;p&gt;Creating my first Power BI dashboard was an exciting milestone in my data analytics journey. It helped me turn raw data into meaningful insights and taught me how powerful visualization can be in storytelling. Building this dashboard was an eye‑opening experience into how global economic shifts impact companies, industries, and entire regions.&lt;/p&gt;
-&lt;h2 id="1-project-overview"&gt;1. Project Overview&lt;/h2&gt;
-&lt;p&gt;I built a World Layoffs - Insignts &amp;amp; Trends dashboard to analyze worldwide layoffs from 2020 to 2024, covering more than 1,000 companies, 31 industries, and nearly 485,000 employees affected. The goal of this project was to understand how layoffs evolved globally during and after the pandemic. I wanted to explore:&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Data Visualization on Mahwish Profile</title>
+		<link>http://localhost:1313/tags/data-visualization/</link>
+		<description>Recent content in Data Visualization on Mahwish Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Building My First Power BI Dashboard</title>
+				<link>http://localhost:1313/blogs/first-power-bi-dashboard/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/first-power-bi-dashboard/</guid>
+				<description>&lt;h2 id=&#34;first-step-towards-visualization&#34;&gt;First Step Towards Visualization&lt;/h2&gt;&#xA;&lt;p&gt;Creating my first Power BI dashboard was an exciting milestone in my data analytics journey. It helped me turn raw data into meaningful insights and taught me how powerful visualization can be in storytelling. Building this dashboard was an eye‑opening experience into how global economic shifts impact companies, industries, and entire regions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-project-overview&#34;&gt;1. Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;I built a World Layoffs - Insignts &amp;amp; Trends dashboard to analyze worldwide layoffs from 2020 to 2024, covering more than 1,000 companies, 31 industries, and nearly 485,000 employees affected. The goal of this project was to understand how layoffs evolved globally during and after the pandemic. I wanted to explore:&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

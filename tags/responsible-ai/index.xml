@@ -1,5 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Responsible AI on Mahwish Profile</title><link>https://mahwishhina.github.io/tags/responsible-ai/</link><description>Recent content in Responsible AI on Mahwish Profile</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mahwishhina.github.io/tags/responsible-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>If AI Can't Explain Itself, Should We Trust It?</title><link>https://mahwishhina.github.io/blogs/the-role-of-transparency-in-ai/</link><pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate><guid>https://mahwishhina.github.io/blogs/the-role-of-transparency-in-ai/</guid><description>&lt;p&gt;Artificial intelligence is now part of almost every area of life. It helps doctors read medical scans, helps banks detect fraud, and even helps governments make decisions about public services. But as AI becomes more powerful, one question becomes more important than ever:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Do we understand how AI makes its decisions?&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This question leads us to one of the most important ethical issues in modern technology: &lt;strong&gt;transparency and explainability in AI systems&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Responsible AI on Mahwish Profile</title>
+		<link>http://localhost:1313/tags/responsible-ai/</link>
+		<description>Recent content in Responsible AI on Mahwish Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/responsible-ai/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>If AI Can&#39;t Explain Itself, Should We Trust It?</title>
+				<link>http://localhost:1313/blogs/the-role-of-transparency-in-ai/</link>
+				<pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/the-role-of-transparency-in-ai/</guid>
+				<description>&lt;p&gt;Artificial intelligence is now part of almost every area of life. It helps doctors read medical scans, helps banks detect fraud, and even helps governments make decisions about public services. But as AI becomes more powerful, one question becomes more important than ever:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Do we understand how AI makes its decisions?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This question leads us to one of the most important ethical issues in modern technology: &lt;strong&gt;transparency and explainability in AI systems&lt;/strong&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
