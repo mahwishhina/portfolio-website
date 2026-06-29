@@ -1,24 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Ethics on Mahwish Profile</title>
-		<link>http://localhost:1313/tags/ethics/</link>
-		<description>Recent content in Ethics on Mahwish Profile</description>
-		<generator>Hugo</generator>
-		<language>en-us</language>
-		
-		
-		
-		
-			<lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>The Illusion of Anonymity: When Data Science Ethics Gets Lost in the Survey</title>
-				<link>http://localhost:1313/blogs/data-science-ethics/</link>
-				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/data-science-ethics/</guid>
-				<description>&lt;h1 id=&#34;ethics-in-data-collection-and-analysis&#34;&gt;Ethics in Data Collection and Analysis&lt;/h1&gt;&#xA;&lt;p&gt;In data science, it&amp;rsquo;s easy to focus on numbers and results, but behind every dataset are real people who trust us with their information. How that information is collected and used can have important ethical implications.&lt;/p&gt;&#xA;&lt;p&gt;Most of us have completed a survey after finishing a course, training session, or workshop. These surveys are often presented as a way for organizations to gather feedback for improvements. In this scenario, participants are asked to complete a ten-question survey after finishing a course. To access the survey, they must log in using their organization username and password. Although the survey does not ask for their name, it states that all responses will remain anonymous. Executive management plans to use the survey results to identify courses that need improvement, and data analysts are responsible for analyzing the feedback and providing recommendations.&lt;/p&gt;</description>
-			</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ethics on Mahwish Profile</title><link>https://mahwishhina.github.io/tags/ethics/</link><description>Recent content in Ethics on Mahwish Profile</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mahwishhina.github.io/tags/ethics/index.xml" rel="self" type="application/rss+xml"/><item><title>The Illusion of Anonymity: When Data Science Ethics Gets Lost in the Survey</title><link>https://mahwishhina.github.io/blogs/data-science-ethics/</link><pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate><guid>https://mahwishhina.github.io/blogs/data-science-ethics/</guid><description>&lt;h1 id="ethics-in-data-collection-and-analysis"&gt;Ethics in Data Collection and Analysis&lt;/h1&gt;
+&lt;p&gt;In data science, it&amp;rsquo;s easy to focus on numbers and results, but behind every dataset are real people who trust us with their information. How that information is collected and used can have important ethical implications.&lt;/p&gt;
+&lt;p&gt;Most of us have completed a survey after finishing a course, training session, or workshop. These surveys are often presented as a way for organizations to gather feedback for improvements. In this scenario, participants are asked to complete a ten-question survey after finishing a course. To access the survey, they must log in using their organization username and password. Although the survey does not ask for their name, it states that all responses will remain anonymous. Executive management plans to use the survey results to identify courses that need improvement, and data analysts are responsible for analyzing the feedback and providing recommendations.&lt;/p&gt;</description></item></channel></rss>

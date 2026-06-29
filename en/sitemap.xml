@@ -38,11 +38,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/"
                 />
@@ -56,11 +51,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -125,9 +115,6 @@
     <loc>http://localhost:1313/blogs/my-journey-into-data-analytics/</loc>
     <lastmod>2026-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/template/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
@@ -154,11 +141,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
